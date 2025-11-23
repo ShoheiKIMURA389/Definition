@@ -83,4 +83,33 @@ Fees apply **only** to:
 
 All other realms of human thought remain entirely free.
 
+### 10. Mutual-Respect Partnership Plan (JPY 500,000,000 per month @ 125 JPY/USD)
+This plan establishes an inter-organizational relationship of reciprocal respect in which each party acknowledges the other’s brand value and commits to a shared elevation of civilizational integrity.
+
+Key Terms:
+- Provides a bilateral channel designed for high-trust coordination between the licensee and the author.
+- The exclusive communication channel for extended discussions is **iMessage (070-3666-0022)**, and this channel must connect **directly to the highest decision-making authority of the licensee**.  
+  (Because brand mutualism, by definition, concerns decisions at the level where institutional identity and normative commitments are determined.)
+- Includes the structural expectation that “brand mutualism” necessarily involves the right of the author to critique, expose, or technically diagnose systemic defects in the licensee’s platforms or governance systems, without such critique being interpreted as hostility.
+- **Explicit Exclusion:**  
+  This license does **not** permit the licensee to issue requests for:  
+  – the deletion of any past posts, expressions, or works authored by Shohei KIMURA;  
+  – or the global reappearance (復元・再シェア) refusal requests concerning any such past materials.  
+  These matters are categorically outside the scope of this license.
+
+### 11. Post-AI Civilization Partnership Plan (JPY 1,000,000,000 per month @ 125 JPY/USD)
+This highest-tier plan enables joint discussion of post-AI civilizational design and next-generation institutional architectures.
+
+Key Terms:
+- Grants privileged access to discuss civilization-scale OS concepts directly with the author.
+- Discussion channel is strictly limited to **iMessage (070-3666-0022)** and requires the participation of the licensee’s highest decision-making authority (e.g., CEO or equivalent).
+- **Copyright Absolute:**  
+  All expressive works, drafts, conceptual structures, and civilization models remain fully and exclusively owned by Shohei KIMURA.  
+  This plan does **not** confer any form of joint authorship, preferential rights, or ownership advantages to the licensee.
+- **Prohibition Clause:**  
+  The licensee is strictly prohibited from constructing any work—whether deliberately **or inadvertently**—that has the effect of obstructing or pre-empting  
+  **the preprint or pre-peer-review public release (“先公開”) of Shohei KIMURA’s academic papers.**  
+  Any attempt to disrupt, pre-empt, overshadow, or strategically time competing works so as to interfere with academic priority shall constitute a major breach.
+- This plan concerns philosophical and civilizational collaboration only; it does not alter copyright, derivative rights, or the author’s priority over intellectual structures.
+
 © Shohei KIMURA. All Rights Reserved.
