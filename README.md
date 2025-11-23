@@ -90,13 +90,15 @@ This plan establishes an inter-organizational relationship of reciprocal respect
 Key Terms:
 - Provides a bilateral channel designed for high-trust coordination between the licensee and the author.
 - The exclusive communication channel for extended discussions is **iMessage (070-3666-0022)**, and this channel must connect **directly to the highest decision-making authority of the licensee**.  
-  (Because brand mutualism, by definition, concerns decisions at the level where institutional identity and normative commitments are determined.)
-- Includes the structural expectation that “brand mutualism” necessarily involves the right of the author to critique, expose, or technically diagnose systemic defects in the licensee’s platforms or governance systems, without such critique being interpreted as hostility.
+  (This requirement is specifically designed for entities whose global-scale social platforms or identity-verification infrastructures generate systemic impact and therefore require top-level normative alignment.)
+- Includes the structural expectation that “brand mutualism” necessarily involves the right of the author to critique, expose, or technically diagnose systemic defects in the licensee’s platforms, user-governance layers, identity-authentication flows, or large-scale content-distribution systems, without such critique being interpreted as hostility.  
+  (This provision is particularly relevant for organizations that have previously experienced repeated false-positive enforcement events or large-scale integrity-layer inconsistencies in their platform operations.)
 - **Explicit Exclusion:**  
   This license does **not** permit the licensee to issue requests for:  
   – the deletion of any past posts, expressions, or works authored by Shohei KIMURA;  
   – or the global reappearance (復元・再シェア) refusal requests concerning any such past materials.  
-  These matters are categorically outside the scope of this license.
+  These matters are categorically outside the scope of this license.  
+  (This applies with heightened relevance to entities whose platform architectures maintain historical content layers, engagement logs, or archival visibility controls that have previously exhibited anomalies.)
 - **This plan encompasses all other license models in full.**
 
 ### 11. Post-AI Civilization Partnership Plan
