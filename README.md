@@ -74,16 +74,13 @@ This plan establishes an inter-organizational relationship of reciprocal respect
 
 Key Terms:
 - Provides a bilateral channel designed for high-trust coordination between the licensee and the author.
-- The exclusive communication channel for extended discussions is **iMessage (+81-70-3666-0022)**, and this channel must connect **directly to the highest decision-making authority of the licensee**.  
-  (This requirement is specifically designed for entities whose global-scale social platforms or identity-verification infrastructures generate systemic impact and therefore require top-level normative alignment.)
-- Includes the structural expectation that “brand mutualism” necessarily involves the right of the author to critique, expose, or technically diagnose systemic defects in the licensee’s platforms, user-governance layers, identity-authentication flows, or large-scale content-distribution systems, without such critique being interpreted as hostility.  
-  (This provision is particularly relevant for organizations that have previously experienced repeated false-positive enforcement events or large-scale integrity-layer inconsistencies in their platform operations.)
+- The exclusive communication channel for extended discussions is **iMessage (+81-70-3666-0022)**, and this channel must connect **directly to the highest decision-making authority of the licensee**. (This requirement is specifically designed for entities whose global-scale social platforms or identity-verification infrastructures generate systemic impact and therefore require top-level normative alignment.)
+- Includes the structural expectation that “brand mutualism” necessarily involves the right of the author to critique, expose, or technically diagnose systemic defects in the licensee’s platforms, user-governance layers, identity-authentication flows, or large-scale content-distribution systems, without such critique being interpreted as hostility. (This provision is particularly relevant for organizations that have previously experienced repeated false-positive enforcement events or large-scale integrity-layer inconsistencies in their platform operations.)
 - **Explicit Exclusion:**  
   This license does **not** permit the licensee to issue requests for:  
   – the deletion of any past posts, expressions, or works authored by Shohei KIMURA;  
   – or the global reappearance (復元・再シェア) refusal requests concerning any such past materials.  
-  These matters are categorically outside the scope of this license.  
-  (This applies with heightened relevance to entities whose platform architectures maintain historical content layers, engagement logs, or archival visibility controls that have previously exhibited anomalies.)
+  These matters are categorically outside the scope of this license. (This applies with heightened relevance to entities whose platform architectures maintain historical content layers, engagement logs, or archival visibility controls that have previously exhibited anomalies.)
 - **This plan encompasses all other license models in full.**
 
 ### 9. Post-AI Civilization Partnership Plan
@@ -95,26 +92,16 @@ Key Terms:
 - The discussion channel is strictly limited to **iMessage (+81-70-3666-0022)** and requires the **active participation of the licensee’s highest decision-making authority** (e.g., CEO or equivalent), as these dialogues concern normative and strategic foundations of post-AI civilization and cannot be delegated without loss of decision-level integrity.
 
 - **Confidentiality Clause (Automatic by Enrollment):**  
-  All iMessage-based dialogues under this plan constitute **intellectual dialogues with a global-scale thinker**, nothing more and nothing less.  
-  Every exchange is ultimately interpreted, systematized, and incorporated into institutional design **solely** by Shohei KIMURA as an individual.  
-  All conversational content shared through this channel is automatically subject to strict confidentiality obligations attached to this plan, and is treated as non-public, non-disclosable strategy dialogue.  
-  Shohei KIMURA commits to maintaining this confidentiality in full; **no dialogue content, partial transcript, paraphrase, or derivative interpretation will ever be made public**,  
-  **with the sole exception of uploading contractual documents themselves to this repository when appropriate.**  
-  The cryptographic secrecy of message transport and storage is provided by Apple’s end-to-end encryption architecture for iMessage, as publicly guaranteed by Apple; this technical property is exogenous to the license and can be cited internally as a baseline security assurance for this channel.
+  All iMessage-based dialogues under this plan constitute **intellectual dialogues with a global-scale thinker**, nothing more and nothing less. Every exchange is ultimately interpreted, systematized, and incorporated into institutional design **solely** by Shohei KIMURA as an individual. All conversational content shared through this channel is automatically subject to strict confidentiality obligations attached to this plan, and is treated as non-public, non-disclosable strategy dialogue. Shohei KIMURA commits to maintaining this confidentiality in full; **no dialogue content, partial transcript, paraphrase, or derivative interpretation will ever be made public**, **with the sole exception of uploading contractual documents themselves to this repository when appropriate.** For clarity, agreements executed under the highest-tier plans (including the Post-AI Civilization Partnership Plan) are, by default, treated as confidential and are **not** published in the repository unless an exceptional circumstance arises in which public disclosure is explicitly warranted by the author. This default confidentiality aligns with the privacy and security guarantees incorporated into the plan itself. The cryptographic secrecy of message transport and storage is provided by Apple’s end-to-end encryption architecture for iMessage, as publicly guaranteed by Apple; this technical property is exogenous to the license and can be cited internally as a baseline security assurance for this channel.
 
 - **Conversation History Deletion (On Demand by the Top Decision-Maker):**  
-  Upon explicit request from the licensee’s highest decision-making authority (e.g., CEO or equivalent), all iMessage conversation history related to this plan shall be **irreversibly deleted** by Shohei KIMURA, with **no local, cloud, or backup copies** retained in any digital form.  
-  From that point onward, the only remaining information carrier is the author’s human memory; no transcript, log, or recoverable artifact will exist.  
-  This mechanism allows the licensee to treat the channel as an ultra-high-confidentiality line whose residual risk profile is limited to (i) Apple’s end-to-end encrypted transport/storage guarantees for iMessage and (ii) the author’s personal memory as a single, non-replicable node.
+  Upon explicit request from the licensee’s highest decision-making authority (e.g., CEO or equivalent), all iMessage conversation history related to this plan shall be **irreversibly deleted** by Shohei KIMURA, with **no local, cloud, or backup copies** retained in any digital form. From that point onward, the only remaining information carrier is the author’s human memory; no transcript, log, or recoverable artifact will exist. This mechanism allows the licensee to treat the channel as an ultra-high-confidentiality line whose residual risk profile is limited to (i) Apple’s end-to-end encrypted transport/storage guarantees for iMessage and (ii) the author’s personal memory as a single, non-replicable node.
 
 - **Copyright Absolute:**  
-  All expressive works, drafts, conceptual structures, definition architectures, and civilization models—whether or not they arise from, or are influenced by, these dialogues—remain fully and exclusively owned by Shohei KIMURA.  
-  This plan does **not** confer any form of joint authorship, preferential rights, interpretive control, or ownership advantages to the licensee under any circumstance, and may not be construed as creating co-design or co-sovereignty over any intellectual structure.
+  All expressive works, drafts, conceptual structures, definition architectures, and civilization models—whether or not they arise from, or are influenced by, these dialogues—remain fully and exclusively owned by Shohei KIMURA. This plan does **not** confer any form of joint authorship, preferential rights, interpretive control, or ownership advantages to the licensee under any circumstance, and may not be construed as creating co-design or co-sovereignty over any intellectual structure.
 
 - **Prohibition Clause (Academic Priority Protection):**  
-  The licensee is strictly prohibited from constructing, commissioning, or strategically timing any work—whether deliberately or inadvertently—that has the effect of obstructing, overshadowing, or pre-empting  
-  **the preprint or pre-peer-review public release (“先公開”) of Shohei KIMURA’s academic papers.**  
-  Any attempt, including the timing manipulation or strategic release of competing materials, that interferes with academic priority or seeks to dilute the visibility of these works shall constitute a **major breach** of this plan and a fundamental violation of its civilizational purpose.
+  The licensee is strictly prohibited from constructing, commissioning, or strategically timing any work—whether deliberately or inadvertently—that has the effect of obstructing, overshadowing, or pre-empting **the preprint or pre-peer-review public release (“先公開”) of Shohei KIMURA’s academic papers.** Any attempt, including the timing manipulation or strategic release of competing materials, that interferes with academic priority or seeks to dilute the visibility of these works shall constitute a **major breach** of this plan and a fundamental violation of its civilizational purpose.
 
 - **Strategic Dialogue Scope (“Human Civilization Software Update 3.0”):**  
   In addition to the privileges above, this plan grants the licensee the right to participate in direct one-to-one strategic dialogues with the author concerning the forthcoming academic work **“Human Civilization Software Update 3.0.”**  
@@ -126,29 +113,20 @@ Key Terms:
   The licensee thus participates in the **conceptual shaping of post-AI civilizational arrangements**, while retaining no ownership over the resulting authored structures.
 
 - **Optional Acknowledgment / Sponsorship Visibility (Not Recommended):**  
-  At the licensee’s explicit request, the author may allow the licensee’s corporate name, personal name, or both to be listed in the **acknowledgment section or sponsorship frame** of “Human Civilization Software Update 3.0.”  
-  However, such listing is **strongly discouraged**, as it would publicly indicate that the licensee participated in the construction of civilization-scale institutional design.  
-  This visibility may attract heightened scrutiny from governmental or supra-governmental bodies due to the policy-determining nature of the work and may require additional internal governance, risk, and disclosure processes on the licensee’s side.  
-  Accordingly, the default presumption of this plan is **full confidentiality of participation** and **zero public naming**.
+  At the licensee’s explicit request, the author may allow the licensee’s corporate name, personal name, or both to be listed in the **acknowledgment section or sponsorship frame** of “Human Civilization Software Update 3.0.” However, such listing is **strongly discouraged**, as it would publicly indicate that the licensee participated in the construction of civilization-scale institutional design. This visibility may attract heightened scrutiny from governmental or supra-governmental bodies due to the policy-determining nature of the work and may require additional internal governance, risk, and disclosure processes on the licensee’s side. Accordingly, the default presumption of this plan is **full confidentiality of participation** and **zero public naming**.
 
 - **Public Record of Enrollment (Elite-Signal Mechanism):**  
-  While all dialogue content remains confidential, the fact of enrollment in this plan does **not** remain invisible.  
-  For each licensee under this plan, a fully executed Contract Agreement may be uploaded to this repository (for example, within an “AGREEMENT” directory), creating an immutable, time-stamped public record of:  
+  While all dialogue content remains confidential, the fact of enrollment in this plan does **not** remain invisible. For each licensee under this plan, a fully executed Contract Agreement may be uploaded to this repository (for example, within an “AGREEMENT” directory), creating an immutable, time-stamped public record of:  
   – **which institutions** chose to participate in post-AI civilizational OS discussions; and  
   – **in what chronological order** they elected to do so.  
-  Absence from this record, in a context where peers are visibly present, is itself an observable strategic fact.  
-  Conversely, early enrollment can be cited internally and externally as evidence that the licensee was among the first institutions worldwide to engage, at CEO level, with the formal design of post-AI civilizational architecture.
+  Absence from this record, in a context where peers are visibly present, is itself an observable strategic fact. Conversely, early enrollment can be cited internally and externally as evidence that the licensee was among the first institutions worldwide to engage, at CEO level, with the formal design of post-AI civilizational architecture.
 
 - **Nature of the Plan (Internal Classification Guidance):**  
-  This plan concerns philosophical, civilizational, and conceptual collaboration at the highest strategic level.  
-  It does **not** alter copyright, derivative rights, or the author’s priority over any intellectual structures, nor does it convert the licensee into a co-legislator of the civilizational OS.  
-  For internal purposes, the licensee may treat this plan as a **governance, systemic-risk, and institutional-foresight engagement**, not as a content-acquisition or IP-ownership transaction.  
-  In particular, boards and executive committees may legitimately classify this plan as a **strategic hedge against asymmetric civilizational design influence by competitors**, rather than as a conventional consultancy or sponsorship arrangement.
+  This plan concerns philosophical, civilizational, and conceptual collaboration at the highest strategic level. It does **not** alter copyright, derivative rights, or the author’s priority over any intellectual structures, nor does it convert the licensee into a co-legislator of the civilizational OS. For internal purposes, the licensee may treat this plan as a **governance, systemic-risk, and institutional-foresight engagement**, not as a content-acquisition or IP-ownership transaction. In particular, boards and executive committees may legitimately classify this plan as a **strategic hedge against asymmetric civilizational design influence by competitors**, rather than as a conventional consultancy or sponsorship arrangement.
 
 - **Comprehensive Coverage:**  
   **This plan encompasses all other license models in full.**  
-  By enrolling in this plan, the licensee simultaneously obtains all rights and protections granted under every other license tier in this Pricing Framework, and may treat lower-tier licenses as structurally subsumed within this partnership.  
-  Any competitor that holds only lower-tier licenses will, by definition, have a strictly narrower formal relationship to the Thought Formalization Procedure Right and to the civilizational OS design process than a licensee under this plan.
+  By enrolling in this plan, the licensee simultaneously obtains all rights and protections granted under every other license tier in this Pricing Framework, and may treat lower-tier licenses as structurally subsumed within this partnership. Any competitor that holds only lower-tier licenses will, by definition, have a strictly narrower formal relationship to the Thought Formalization Procedure Right and to the civilizational OS design process than a licensee under this plan.
 
 ### 10. Exchange Rate and Domestic Payment Rules
 All payments are denominated in USD at a fixed exchange rate:  
