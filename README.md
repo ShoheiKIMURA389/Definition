@@ -89,7 +89,7 @@ This plan establishes an inter-organizational relationship of reciprocal respect
 
 Key Terms:
 - Provides a bilateral channel designed for high-trust coordination between the licensee and the author.
-- The exclusive communication channel for extended discussions is **iMessage (070-3666-0022)**, and this channel must connect **directly to the highest decision-making authority of the licensee**.  
+- The exclusive communication channel for extended discussions is **iMessage (+81-70-3666-0022)**, and this channel must connect **directly to the highest decision-making authority of the licensee**.  
   (This requirement is specifically designed for entities whose global-scale social platforms or identity-verification infrastructures generate systemic impact and therefore require top-level normative alignment.)
 - Includes the structural expectation that “brand mutualism” necessarily involves the right of the author to critique, expose, or technically diagnose systemic defects in the licensee’s platforms, user-governance layers, identity-authentication flows, or large-scale content-distribution systems, without such critique being interpreted as hostility.  
   (This provision is particularly relevant for organizations that have previously experienced repeated false-positive enforcement events or large-scale integrity-layer inconsistencies in their platform operations.)
@@ -107,7 +107,7 @@ This highest-tier plan enables joint discussion of post-AI civilizational design
 
 Key Terms:
 - Grants privileged access to discuss civilization-scale OS concepts directly with the author.
-- Discussion channel is strictly limited to **iMessage (070-3666-0022)** and requires the participation of the licensee’s highest decision-making authority (e.g., CEO or equivalent), as these dialogues concern normative and strategic foundations of post-AI civilization.
+- Discussion channel is strictly limited to **iMessage (+81-70-3666-0022)** and requires the participation of the licensee’s highest decision-making authority (e.g., CEO or equivalent), as these dialogues concern normative and strategic foundations of post-AI civilization.
 - **Copyright Absolute:**  
   All expressive works, drafts, conceptual structures, definition architectures, and civilization models remain fully and exclusively owned by Shohei KIMURA.  
   This plan does **not** confer any form of joint authorship, preferential rights, interpretive control, or ownership advantages to the licensee under any circumstance.
