@@ -93,6 +93,13 @@ This highest-tier plan enables joint discussion of post-AI civilizational design
 Key Terms:
 - Grants privileged access to discuss civilization-scale OS concepts directly with the author.
 - Discussion channel is strictly limited to **iMessage (+81-70-3666-0022)** and requires the participation of the licensee’s highest decision-making authority (e.g., CEO or equivalent), as these dialogues concern normative and strategic foundations of post-AI civilization.
+- **Confidentiality Clause (Automatic by Enrollment):**  
+  All iMessage-based dialogues under this plan constitute **intellectual dialogues with a global-scale thinker**, nothing more and nothing less.  
+  Every exchange is ultimately interpreted, systematized, and incorporated into institutional design **solely** by Shohei KIMURA as an individual.  
+  **No conversational history, fragments, or derivative interpretations will ever be made public**, and all content communicated through iMessage becomes automatically subject to strict confidentiality as an attached obligation of this plan.  
+  Shohei KIMURA commits to fully maintaining this confidentiality, and **no information will ever leak**,  
+  **with the sole exception of uploading contractual documents to this repository when appropriate.**
+
 - **Copyright Absolute:**  
   All expressive works, drafts, conceptual structures, definition architectures, and civilization models remain fully and exclusively owned by Shohei KIMURA.  
   This plan does **not** confer any form of joint authorship, preferential rights, interpretive control, or ownership advantages to the licensee under any circumstance.
