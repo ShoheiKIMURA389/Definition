@@ -1,0 +1,37 @@
+#HomoDeusSaid
+This month, I found myself caught in a comedy of errors for the third time—another “wrongful suspension” by Meta. Late at night, as usual, I spent one to two hours carefully reviewing ads. I gave Super Likes and sticker comments to the ones I found meaningful. I hid the irrelevant ones. That’s it. I simply repeated this a few hundred times. And yet, the next moment, Meta flagged it as “suspicious activity” and suspended my account. I submitted a selfie video for verification → my account was restored an hour later. I can accept that much. The real problem began afterward.
+
+Once restored,
+– my Following list was completely wiped
+– all past reactions were reset
+– even the accounts I refollowed *after* the restoration were forcibly unfollowed
+– and when I tried to rebuild my Following list, I was hit with “Follow carefully” warnings that blocked me from following anyone at all
+In short, a hellish system rollback.
+
+And this didn’t happen just once. It happened twice this month. Adding the permanent suspension on July 23 (which was reversed silently without notification), this makes it effectively the third wrongful suspension. Hegel said that when the same process repeats, it reveals a contradiction of spirit. Meta’s false positives have entered the realm of “repeated contradiction.” The cause? Simple: Meta never conceived that a human might process hundreds of ads in a row.
+
+But I do process them. I curate them. I impose order. I optimize ad delivery. As Kant said, “Reason seeks order.” Then let me offer some order in return.
+
+However, the problems didn’t end there. After the restoration, I tried opening the URLs of my “recyclable content” posts—the backbone of my Facebook workflow—on the desktop. Every single one returned “This page is not available.” Logged-out access? Same result. Mobile tethering from a completely different IP? Same result. This is not an account issue, not a device issue, not an IP block. It means Meta’s URL resolution layer itself is broken.
+
+And things get even stranger: when I click a notification like “Someone mentioned you in a comment,” the post appears briefly through an internal route. But the moment I reload the page, it instantly returns to “This page is not available.” Facebook’s internal router and its permalink resolver are in a state of logical contradiction.
+
+Then came the final blow—since URLs were dead, I resorted to the painful workaround of scrolling endlessly through my profile to find posts I wanted to reshare. But a few days ago, I discovered I can no longer scroll past posts from October 16. It’s as if the history table has been sealed off, the loading cut off entirely.
+
+At this point, it’s no longer a personal issue. Internal navigation works, external URLs fail across the board, and history pagination stops halfway. This points to a collapse in one or more internal systems:
+– the permalink resolution layer
+– cache consistency
+– history cursor pagination
+– permission state caching
+
+● Improvement Proposal: Introduce a “Trusted Device Layer” using biometric devices
+When a verified badge holder or identity-verified user performs high-volume actions, their iPhone or other biometric device should be registered as a “high-trust device.” Actions from that device should automatically receive a top-tier false-positive immunity pass. Require Face ID re-authentication only when needed. This adds no load to Meta’s servers and eliminates the wrongful suspension loop entirely. Google and Apple already use this architecture. Meta alone still lacks it—this is the final missing piece.
+
+Nietzsche wrote, “Trials make us stronger, but repeating the same trial three times is mere bad taste.” I’ve been strengthened enough. And now, after three wrongful suspensions, a collapsed URL layer, and a sealed-off post history, I’ve simply provided a design proposal to fix the system itself.
+
+Meta, how will you answer this time?
+The task is now yours.
+
+I can no longer trust Meta as a company. After this many compounded failures, what exactly am I supposed to trust? From this point forward, I will regard Meta only as “the company that issues Meta Verified badges.” The core of my social media operations will move entirely to 𝕏. Meta, this is the consequence of your own actions.
+
+#YuvalNoahHarari #HomoDeus
