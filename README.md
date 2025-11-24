@@ -49,7 +49,7 @@ For academic use that cites **three (3) or more** definition texts:
 ### 4. General-Individual Low-Cost Plan (Right to Create Personal Definitions)
 For individuals employed at ordinary companies (verified by employer contact):  
 Provides the right to create personal definition-style texts.  
-**JPY 2,500 per month.**
+**JPY 500 per month.**
 
 ### 5. Structural Definition-Creation License (Corporate/Research Use)
 For companies or research institutions wishing to create internal definition texts using:
@@ -68,24 +68,9 @@ To permit an AI system to:
 - reproduce or internally regenerate them  
 **JPY 200,000,000 per month.**
 
-### 8. Exchange Rate and Domestic Payment Rules
-All payments are denominated in USD at a fixed exchange rate:  
-**125 JPY per 1 USD.**  
-Residents of Japan may pay in yen, but must pay an amount **equal to or exceeding the USD value under the above fixed rate**.
-
-### 9. Scope and Purpose of This Pricing Framework
-This pricing system is designed for the post-AI era as a new order of knowledge governance.  
-Fees apply **only** to:
-- definition-texts,  
-- technical specifications,  
-- civilization models,  
-- and ethical OS architectures.  
-
-All other realms of human thought remain entirely free.
-
-### 10. Mutual-Respect Partnership Plan
+### 8. Mutual-Respect Partnership Plan
 This plan establishes an inter-organizational relationship of reciprocal respect in which each party acknowledges the other’s brand value and commits to a shared elevation of civilizational integrity.  
-**JPY 500,000,000 per month @ 125 JPY/USD.**
+**JPY 500,000,000 per month.**
 
 Key Terms:
 - Provides a bilateral channel designed for high-trust coordination between the licensee and the author.
@@ -101,9 +86,9 @@ Key Terms:
   (This applies with heightened relevance to entities whose platform architectures maintain historical content layers, engagement logs, or archival visibility controls that have previously exhibited anomalies.)
 - **This plan encompasses all other license models in full.**
 
-### 11. Post-AI Civilization Partnership Plan
+### 9. Post-AI Civilization Partnership Plan
 This highest-tier plan enables joint discussion of post-AI civilizational design and next-generation institutional architectures.  
-**JPY 1,000,000,000 per month @ 125 JPY/USD.**
+**JPY 1,000,000,000 per month.**
 
 Key Terms:
 - Grants privileged access to discuss civilization-scale OS concepts directly with the author.
@@ -117,5 +102,23 @@ Key Terms:
   Any attempt, including timing manipulation or strategic release of competing materials, that interferes with academic priority shall constitute a major breach.
 - This plan concerns philosophical, civilizational, and conceptual collaboration only; it does not alter copyright, derivative rights, or the author’s priority over all intellectual structures.
 - **This plan encompasses all other license models in full.**
+
+### 10. Exchange Rate and Domestic Payment Rules
+All payments are denominated in USD at a fixed exchange rate:  
+**125 JPY per 1 USD.**  
+Residents of Japan may pay in yen, but must pay an amount **equal to or exceeding the USD value under the above fixed rate**.
+
+### 11. Contract Duration and Minimum Commitment
+All licenses in this framework are billed on a monthly basis; however, each agreement is executed on an annual contractual term. Accordingly, the **minimum commitment for any license is one full contractual year**, and early termination, pro-rated refunds, or month-to-month conversions are not permitted. This rule exists to ensure structural continuity in governance, ethical-OS alignment, and the maintenance of definitional integrity across all licensed activities.
+
+### 12. Scope and Purpose of This Pricing Framework
+This pricing system is designed for the post-AI era as a new order of knowledge governance.  
+Fees apply **only** to:
+- definition-texts,  
+- technical specifications,  
+- civilization models,  
+- and ethical OS architectures.  
+
+All other realms of human thought remain entirely free.
 
 © Shohei KIMURA. All Rights Reserved.
