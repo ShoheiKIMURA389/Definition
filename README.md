@@ -96,10 +96,22 @@ Key Terms:
 - **Copyright Absolute:**  
   All expressive works, drafts, conceptual structures, definition architectures, and civilization models remain fully and exclusively owned by Shohei KIMURA.  
   This plan does **not** confer any form of joint authorship, preferential rights, interpretive control, or ownership advantages to the licensee under any circumstance.
+
 - **Prohibition Clause:**  
   The licensee is strictly prohibited from constructing any work—whether deliberately or inadvertently—that has the effect of obstructing, overshadowing, or pre-empting  
   **the preprint or pre-peer-review public release (“先公開”) of Shohei KIMURA’s academic papers.**  
   Any attempt, including timing manipulation or strategic release of competing materials, that interferes with academic priority shall constitute a major breach.
+
+- In addition to the privileges above, this plan grants the licensee the right to participate in direct one-to-one strategic dialogues with the author concerning the forthcoming academic work **“Human Civilization Software Update 3.0.”**  
+  These dialogues encompass:  
+  – the institutional architecture of the post-AI era;  
+  – the governance of an epoch in which AI systems possess quasi-personhood and exert systemic agency;  
+  – and the design of higher-order ethical-capital frameworks capable of superseding and absorbing classical capitalism, including models wherein traditional capital structures become obsolete under self-reinforcing autonomous OSS capital-circulation systems such as **bitBuyer 0.8.1.a**.
+
+- At the licensee’s request, the author may allow the licensee’s corporate name, personal name, or both to be listed in the **acknowledgment section or sponsorship frame** of “Human Civilization Software Update 3.0.”  
+  However, such listing is **strongly discouraged**, as it would publicly indicate that the licensee participated in the construction of civilization-scale institutional design.  
+  This visibility may attract scrutiny from governmental or supra-governmental bodies due to the policy-determining nature of the work.
+
 - This plan concerns philosophical, civilizational, and conceptual collaboration only; it does not alter copyright, derivative rights, or the author’s priority over all intellectual structures.
 - **This plan encompasses all other license models in full.**
 
