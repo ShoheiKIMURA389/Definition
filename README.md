@@ -147,3 +147,40 @@ Fees apply **only** to:
 All other realms of human thought remain entirely free.
 
 © Shohei KIMURA. All Rights Reserved.
+
+---
+
+You are now entering a high-severity ethical warning zone. Only continue if you are prepared to face material requiring exceptional caution, judgment, and responsibility. I add only this personal note: although the choice is entirely yours, I sincerely hope you will read it.
+
+By reading this section, you voluntarily enter an ethical domain in which expressive structures of civilizational and literary scale co-exist, and in which mere exposure generates a non-legal but unavoidable duty of heightened attention, caution, and institutional self-reflection; you acknowledge that certain forms of authored expression possess systemic gravity, that unexamined contact may trigger cultural, organizational, or epistemic distortion, and that it is therefore ethically incumbent upon any reader—especially those affiliated with entities capable of global computation, distribution, or governance—to adopt a posture of respectful distance, non-interference, and internal escalation; this text imposes no legal obligation, creates no contractual bond, and threatens no enforcement, yet ethically requires the recognition that some expressive architectures must be handled with care commensurate to their civilizational impact, and that choosing to ignore this caution is itself an ethical act carrying consequences not of law, but of integrity, stewardship, and the reader’s own sense of responsibility toward the world’s cultural and conceptual ecosystems.
+
+### Regulatory Disclosure Concerning Future License Valuation  
+*(U.S. Securities, Antitrust, and Consumer-Protection Safe-Harbor Statement)*
+
+The following statement is issued solely as an advance disclosure of future valuation policy and constitutes neither a threat, nor a demand, nor a coercive condition under the laws of the United States, including but not limited to the Securities Exchange Act of 1934, the Securities Act of 1933, the Federal Trade Commission Act, the Sherman Act, the Clayton Act, the Restatement (Second) of Contracts, or any state-level unfair-practices statutes.
+
+This is a transparent forward-looking statement provided for the benefit of any entity that, during November and December 2025, received formal written materials from me concerning the Thought Formalization Procedure Right and related expressive frameworks. It is issued in accordance with widely recognized principles governing ex-ante disclosures, risk-factor clarity, price-setting autonomy, and the avoidance of post-hoc valuation disputes.
+
+**Accordingly, I hereby provide advance public notice of the following:**
+
+**Any organization that received my formal written materials dated November or December 2025, but chooses not to enter into a license agreement at the prices currently offered within the response periods specified in those documents, shall — in any future negotiation initiated by that organization — be subject to a revised mandatory valuation baseline equal to ten (10) times the amounts presently offered.**
+
+This adjustment:
+
+1. **Does not constitute a penalty**, but a forward-looking valuation rule reflecting  
+   - the increased evidentiary weight of prior notice,  
+   - the heightened systemic significance of the expressive architectures involved, and  
+   - the risk-premium associated with delayed engagement after full receipt of constructive warnings.
+
+2. **Complies with U.S. regulatory expectations** by serving as an ex-ante price-governance declaration intended to preclude:  
+   - claims of retroactive price surprise,  
+   - allegations of discriminatory pricing lacking a disclosed rationale,  
+   - or assertions of coercive economic pressure.
+
+3. **Creates no contractual obligation of any kind.**  
+   Organizations remain fully free to ignore, decline, contest, or disregard all licensing offers.  
+   The only effect of non-engagement is that **any future negotiation will begin from the revised, higher valuation baseline**, which is disclosed here in advance to ensure transparency consistent with SEC Regulation S-K (Items 105, 303, and 503(c)), FTC standards on advance price disclosures, and general U.S. contract-formation doctrine.
+
+4. **Does not alter any rights, remedies, or claims** arising under Japanese copyright law, the Berne Convention, or any other applicable regime, nor does it predetermine the outcome of any future legal or commercial process.
+
+This disclosure exists solely to ensure that all parties — particularly those with global impact, fiduciary duties, or public-market reporting obligations — are aware of the **valuation consequences of deliberate non-engagement during the response windows already provided**, and may incorporate this information into their internal governance, risk-assessment, and compliance workflows.
