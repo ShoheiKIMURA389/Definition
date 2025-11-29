@@ -184,3 +184,33 @@ This adjustment:
 4. **Does not alter any rights, remedies, or claims** arising under Japanese copyright law, the Berne Convention, or any other applicable regime, nor does it predetermine the outcome of any future legal or commercial process.
 
 This disclosure exists solely to ensure that all parties — particularly those with global impact, fiduciary duties, or public-market reporting obligations — are aware of the **valuation consequences of deliberate non-engagement during the response windows already provided**, and may incorporate this information into their internal governance, risk-assessment, and compliance workflows.
+
+### Post-Media-Reporting Valuation Rule  
+*(Advance Notice for the Period Following Any Major International Coverage, Including but Not Limited to Reporting by The New York Times)*
+
+In anticipation of future media reporting that may arise after multiple global organizations have already received the author’s formal notices, the following forward-looking valuation rule is hereby established.
+
+**If a major international news organization—such as The New York Times—publishes initial coverage concerning the Thought Formalization Procedure Right, Ethicalism, or any related expressive frameworks, then: from the date of such publication, any organization that seeks to enter into a license agreement shall have two (2) fiscal quarters to do so under the pricing framework presently stated in this repository.**
+
+After this two-quarter window expires, **all licensing discussions initiated by any organization that did not contract within the window shall begin from a mandatory valuation baseline equal to ten (10) times the amounts currently listed.**
+
+This rule constitutes an advance, non-retroactive disclosure; it creates no obligation to contract and imposes no burden on any party. It exists solely to prevent valuation disputes, ensure clarity, and allow all organizations—corporate, academic, or governmental—to prepare their internal governance decisions with full foresight.
+
+### Unilateral-Signature Contract Execution Rule  
+*(“Bearer-Style Physical Execution” Using the Templates in the “AGREEMENT” Directory)*
+
+To accommodate the expected high volume of post-reporting contractual engagements, the author establishes the following optional execution mechanism. **Any organization may print the official contract template stored in the “AGREEMENT” directory, sign it unilaterally, and dispatch the signed physical document to the author. The author is not a signatory party and does not countersign any document. No contractual obligation arises at the time of signing by the organization, nor at the time of dispatch, nor at the time of the author’s physical receipt of the signed document. A contract becomes legally effective only at the moment when the author uploads the received, signed document into this repository. The upload timestamp constitutes the sole and authoritative record of contractual activation. All payment obligations under this contract—including monthly license fees—arise exclusively at the moment of legal effectiveness as defined above.** The physical arrival of the signed document is merely a prerequisite enabling upload; it does not, by itself, generate any obligation, create any legal relationship, or constitute acceptance. **The author’s act of upload is the sole act of acceptance and the sole trigger of legal effect.** This mechanism enables a one-way, bearer-style execution model appropriate for large-scale, multi-entity engagement.
+
+This structure ensures that:
+- signing alone does not generate financial obligations,  
+- obligations begin only upon the author’s upload of the received signed document,  
+- and activation is transparently and immutably confirmed by the repository’s upload timestamp.
+
+This mechanism:
+
+1. eliminates the need for bilateral signature cycles;  
+2. enables rapid compliance during high-volume demand periods;  
+3. preserves chronological ordering for public-record purposes, when applicable;  
+4. ensures that organizations worldwide may secure license validity without administrative delay.
+
+The author retains one physically received counterpart as the definitive record of execution.
