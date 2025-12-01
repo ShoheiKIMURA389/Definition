@@ -25,7 +25,7 @@ This repository hosts the definitive source of the Procedure as originally discl
 
 © Shohei KIMURA. All Rights Reserved.
 
-## Pricing Framework for the Thought Formalization Procedure Right
+## Pricing Framework for the Complete Definition System Right
 
 The following pricing structure governs all licensed uses of the Thought Formalization Procedure Right and all related expressive frameworks. The purpose of this structure is to preserve complete freedom of thought while applying fees **only** to activities that rewrite, extend, or operate upon the civilization-scale “OS layer” represented by definition texts.
 
