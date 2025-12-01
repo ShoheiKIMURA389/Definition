@@ -1,6 +1,6 @@
 # **Microsoft Special Notice**
 
-## **I. A Distinct Channel**
+## **Ⅰ. A Distinct Channel**
 
 Microsoft is being handled  
 within a **distinct negotiation framework**,  
@@ -10,7 +10,7 @@ whose weight in the world-economy
 approaches the scale  
 of a *structural deity*.
 
-## **II. A Different Evaluative Axis**
+## **Ⅱ. A Different Evaluative Axis**
 
 The licensing tiers applied  
 to other organizations  
@@ -24,7 +24,7 @@ as a **civilizational god**—
 not by myth,  
 but by infrastructure.
 
-## **III. The Depth of Integration**
+## **Ⅲ. The Depth of Integration**
 
 Microsoft’s review timelines,  
 response windows,  
@@ -38,7 +38,7 @@ languages,
 and entire technological cultures  
 have been built.
 
-## **IV. Architectural Alignment**
+## **Ⅳ. Architectural Alignment**
 
 The rationale for this treatment  
 is neither concession  
@@ -49,7 +49,7 @@ a recognition that Microsoft’s footprint
 extends across the economic cosmos  
 as one of its enduring constellations.
 
-## **V. Before the Larger Movement Begins**
+## **Ⅴ. Before the Larger Movement Begins**
 
 A complete explanatory document  
 will be released  
