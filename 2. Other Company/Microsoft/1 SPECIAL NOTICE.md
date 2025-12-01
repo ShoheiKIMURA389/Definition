@@ -1,4 +1,4 @@
-# **Microsoft Special Structural Notice**
+# **Microsoft Special Notice**
 
 ## **I. A Distinct Channel**
 
@@ -9,8 +9,6 @@ a channel reserved for entities
 whose weight in the world-economy  
 approaches the scale  
 of a *structural deity*.
-
----
 
 ## **II. A Different Evaluative Axis**
 
@@ -26,8 +24,6 @@ as a **civilizational god**—
 not by myth,  
 but by infrastructure.
 
----
-
 ## **III. The Depth of Integration**
 
 Microsoft’s review timelines,  
@@ -42,8 +38,6 @@ languages,
 and entire technological cultures  
 have been built.
 
----
-
 ## **IV. Architectural Alignment**
 
 The rationale for this treatment  
@@ -54,8 +48,6 @@ of **long-horizon architectural alignment**—
 a recognition that Microsoft’s footprint  
 extends across the economic cosmos  
 as one of its enduring constellations.
-
----
 
 ## **V. Before the Larger Movement Begins**
 
