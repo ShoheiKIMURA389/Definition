@@ -3,7 +3,7 @@ This is the only officially recognized channel for formal notices, licensing mat
 
 ## About “Definition 1: The Thought Formalization Procedure”
 
-“Definition 1” (the file titled **“定義.txt”**) constitutes the foundational authored work establishing the concept I denominate the **“Thought Formalization Procedure.”** This text simultaneously functions as:
+“Definition 1” (the file titled **“定義.md”**) constitutes the foundational authored work establishing the concept I denominate the **“Thought Formalization Procedure.”** This text simultaneously functions as:
 
 1. **An expressive literary work** written in a deliberately constrained Japanese prose style; and  
 2. **A procedural framework** that renders the act of giving formal structure to a thought into a copyright-protected authored expression.
