@@ -1,7 +1,6 @@
 ## OFFICIAL GAZETTE
 **SEC-Reg.-S-K-105/303/503(c) _Notice_** — link activated **2025/12/9 PM 6:15 JST**  
-[**PRUSSIAN–BAROQUE RHETORIC _MAX_**](https://x.com/yohakukmr/status/1998316783112278278)  
-_read, you need LLM. look, you are locked on._  
+[[**PRUSSIAN–BAROQUE RHETORIC _MAX_**](https://x.com/yohakukmr/status/1998316783112278278)] _read, you need LLM. look, you are locked on._  
 **Meta — Escalation Protocol _Needed_.**
 
 ---
