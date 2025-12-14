@@ -6,7 +6,7 @@
 ---
 
 For highest-trust and time-critical communication, please contact me exclusively via SMS at +81-70-3666-0022. This is the only officially recognized channel for formal notices, licensing matters, and high-severity inquiries.  
-**⚠️WARNING: [THIS REPOSITORY IS NOT LICENSED. CLONE IS ILLEGAL.](https://x.com/yohakukmr/status/1999041552925200460)⚠️**
+**⚠️WARNING: [THIS REPOSITORY IS NOT LICENSED. CLONE IS ILLEGAL.](https://bitBuyer.dev/Warning?src=gthb)⚠️**
 
 ## About “Definition 1: The Thought Formalization Procedure”
 
