@@ -1,7 +1,8 @@
 For highest-trust and time-critical communication, please contact me exclusively via SMS at +81-70-3666-0022. This is the only officially recognized channel for formal notices, licensing matters, and high-severity inquiries.  
-**⚠️NOTICE: THIS REPOSITORY IS PUBLISHED WITHOUT AN OPEN-SOURCE LICENSE.**  
-**If you are reading this on GitHub, your access is governed by GitHub’s Terms of Service; no additional rights are granted beyond what GitHub’s functionality and applicable law already permit.**  
-**For a concise warning page, see: [Repository Notice](https://bitBuyer.dev/Warning?src=gthb)**  
+
+**⚠️NOTICE: THIS REPOSITORY IS PUBLISHED WITHOUT AN OPEN-SOURCE LICENSE.⚠️**  
+
+**If you are reading this on GitHub, your access is governed by GitHub’s Terms of Service; no additional rights are granted beyond what GitHub’s functionality and applicable law already permit. For a concise warning page, see: [Repository Notice](https://bitBuyer.dev/Warning?src=gthb).**  
 
 ## About “Definition 1: The Thought Formalization Procedure”  
 
