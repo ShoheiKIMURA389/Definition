@@ -179,8 +179,7 @@ This adjustment:
    - or assertions of coercive economic pressure.  
 
 3. **Creates no contractual obligation of any kind.**  
-   Organizations remain fully free to ignore, decline, contest, or disregard all licensing offers.  
-   The only effect of non-engagement is that **any future negotiation will begin from the revised, higher valuation baseline**, which is disclosed here in advance to ensure transparency consistent with SEC Regulation S-K (Items 105, 303, and 503(c)), FTC standards on advance price disclosures, and general U.S. contract-formation doctrine.  
+   Organizations remain fully free to ignore, decline, contest, or disregard all licensing offers. The only effect of non-engagement is that **any future negotiation will begin from the revised, higher valuation baseline**, which is disclosed here in advance to ensure transparency consistent with SEC Regulation S-K (Items 105, 303, and 503(c)), FTC standards on advance price disclosures, and general U.S. contract-formation doctrine.  
 
 4. **Does not alter any rights, remedies, or claims** arising under Japanese copyright law, the Berne Convention, or any other applicable regime, nor does it predetermine the outcome of any future legal or commercial process.  
 
