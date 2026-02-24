@@ -1,6 +1,6 @@
 # Welcome, cher
 
-Welcome, cher. This page here’s laid out plain, with transparency, cher, and with responsibility too. It’s the front porch, cher—the public one—to my long-run research work and civilizational design.
+Welcome, cher. This page here’s laid out plain, with transparency, cher, and with responsibility too; it’s the front porch—the public one—to my long-run research work and civilizational design, and if you need to reach me formal and proper about anything written here, legal or otherwise official, send an SMS to +81-70-3666, cher, and we’ll keep it straight and documented.
 
 ## Platform note, cher
 
