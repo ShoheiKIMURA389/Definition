@@ -57,13 +57,7 @@ This framework’s meant to offer, cher:
 
 ## Thought Formalization Procedure, cher
 
-I’m the originator of 思想形式化手続き (Thought Formalization Procedure), cher—the world’s first copyrighted method for formalizin’ thought itself. This method provides, cher:
-
-- reproducibility
-- auditability
-- intellectual transparency
-
-Those ain’t optional niceties no more, cher. In an age of AI-integrated decision-makin’, they’re foundational.
+I’m the originator of 思想形式化手続き (Thought Formalization Procedure), cher—the world’s first copyrighted method for formalizin’ thought itself, a framework that delivers reproducibility, auditability, and intellectual transparency, and those ain’t optional niceties no more, cher, ‘cause in an age of AI-integrated decision-makin’, they’re foundational.
 
 ## Fiction, cher
 
@@ -3212,17 +3206,11 @@ All Rights Reserved.
 
 ## 1. COPYRIGHT OWNERSHIP  
 
-This repository contains original works protected by copyright law.  
-
-All rights, title, and interest in the contents of this repository are retained exclusively by the author. No open-source license applies unless expressly stated in a separate written instrument executed by the author.  
-
-The absence of an open-source license is intentional and shall not be interpreted as an implied grant of rights.  
+This repository contains original works protected by copyright law. All rights, title, and interest in the contents of this repository are retained exclusively by the author. No open-source license applies unless expressly stated in a separate written instrument executed by the author. The absence of an open-source license is intentional and shall not be interpreted as an implied grant of rights.  
 
 ## 2. RELATIONSHIP TO GITHUB TERMS OF SERVICE  
 
-This repository is hosted on GitHub and is therefore subject to GitHub’s Terms of Service.  
-
-Under GitHub’s Terms of Service, users are granted certain limited platform rights necessary to view and interact with public repositories through GitHub’s interface. Such platform rights exist solely for the purpose of operating, displaying, and technically transmitting content within the GitHub service.  
+This repository is hosted on GitHub and is therefore subject to GitHub’s Terms of Service. Under GitHub’s Terms of Service, users are granted certain limited platform rights necessary to view and interact with public repositories through GitHub’s interface. Such platform rights exist solely for the purpose of operating, displaying, and technically transmitting content within the GitHub service.  
 
 These platform-level permissions:  
 
@@ -3235,35 +3223,15 @@ The technical availability of features such as “clone,” “fork,” “downl
 
 ## 3. NO OPEN-SOURCE LICENSE  
 
-Unless explicitly and separately stated, this repository is not released under any open-source license.  
-
-No permission is granted for:  
-
-- reproduction beyond statutory exceptions,  
-- redistribution,  
-- derivative works,  
-- commercial exploitation,  
-- translation or transformation,  
-- automated training, indexing, or embedding,  
-- or any other use requiring authorization under applicable copyright law.  
-
-Any rights not expressly granted by statute or by written authorization from the author remain reserved.  
+Unless explicitly and separately stated, this repository ain’t released under no open-source license, cher, and no permission’s granted for reproduction beyond statutory exceptions, redistribution, derivative works, commercial exploitation, translation or transformation, automated training, indexing, or embedding, nor any other use that’d require authorization under applicable copyright law, so any rights not expressly granted by statute or by written authorization from the author stay fully reserved.  
 
 ## 4. STATUTORY LIMITATIONS AND EXCEPTIONS  
 
-Nothing in this notice restricts uses that are mandatorily permitted under applicable law, including limited statutory exceptions such as private use where legally recognized.  
-
-Users are solely responsible for determining whether their actions fall within such statutory limitations.  
-
-Any use exceeding those statutory boundaries requires prior authorization from the author.  
+Nothing in this notice restricts uses that are mandatorily permitted under applicable law, including limited statutory exceptions such as private use where legally recognized. Users are solely responsible for determining whether their actions fall within such statutory limitations. Any use exceeding those statutory boundaries requires prior authorization from the author.  
 
 ## 5. PLATFORM ACCESSIBILITY  
 
-Public accessibility on GitHub does not constitute dedication to the public domain.  
-
-Visibility does not equal license.  
-Technical possibility does not equal permission.  
-Platform functionality does not equal contractual authorization from the author.  
+Public accessibility on GitHub does not constitute dedication to the public domain. Visibility does not equal license. Technical possibility does not equal permission. Platform functionality does not equal contractual authorization from the author.  
 
 ## 6. PURPOSE AND CHARACTER OF THE WORK  
 
@@ -3275,14 +3243,8 @@ They are not offered under implied community licensing norms.
 
 ## 7. REQUESTS FOR AUTHORIZATION  
 
-Requests for authorization must be directed to the author through appropriate direct communication channels.  
-
-Silence, delay, or lack of response shall not be interpreted as consent.  
+Requests for authorization must be directed to the author through appropriate direct communication channels. Silence, delay, or lack of response shall not be interpreted as consent.  
 
 ## 8. INTERPRETIVE STATEMENT  
 
-This notice is provided for clarity regarding copyright status in the context of GitHub’s platform architecture.  
-
-Nothing contained herein constitutes legal advice or a unilateral declaration of enforceability beyond what is provided by applicable law.  
-
-All rights and remedies, if any, arise solely under applicable law and jurisdiction.  
+This notice is provided for clarity regarding copyright status in the context of GitHub’s platform architecture. Nothing contained herein constitutes legal advice or a unilateral declaration of enforceability beyond what is provided by applicable law. All rights and remedies, if any, arise solely under applicable law and jurisdiction.  
