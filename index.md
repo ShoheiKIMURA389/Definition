@@ -1525,6 +1525,7 @@ Facebook：https://www.facebook.com/61572398409812/posts/122176519316746613
 All Rights Reserved.
 
 𝕏：https://x.com/yohakukmr/status/1996414160146722993  
+Facebook：https://www.facebook.com/61572398409812/posts/122177558300746613
 
 ---
 
@@ -1552,6 +1553,7 @@ All Rights Reserved.
 All Rights Reserved.
 
 𝕏：https://x.com/yohakukmr/status/1996429253903061087  
+Facebook：https://www.facebook.com/61572398409812/posts/122177558318746613
 
 ---
 
@@ -1579,6 +1581,7 @@ All Rights Reserved.
 All Rights Reserved.
 
 𝕏：https://x.com/yohakukmr/status/1996867182773297579  
+Facebook：https://www.facebook.com/61572398409812/posts/122177558336746613
 
 ---
 
@@ -1606,6 +1609,7 @@ All Rights Reserved.
 All Rights Reserved.
 
 𝕏：https://x.com/yohakukmr/status/1996867199613444187  
+Facebook：https://www.facebook.com/61572398409812/posts/122177558354746613
 
 ---
 
@@ -1633,6 +1637,7 @@ All Rights Reserved.
 All Rights Reserved.
 
 𝕏：https://x.com/yohakukmr/status/1996867219209494671  
+Facebook：https://www.facebook.com/61572398409812/posts/122177558366746613
 
 ---
 
