@@ -3266,7 +3266,7 @@ Target：https://www.facebook.com/drmarkhyman
 木村杳白（木村翔平）  
 All Rights Reserved.
 
-𝕏：
+𝕏：https://x.com/yohakukmr/status/2027579535558836302  
 
 ---
 
