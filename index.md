@@ -6,15 +6,11 @@ Welcome, cher. This page here’s laid out plain, with transparency, cher, and w
 > ✦ A public record.  
 > ✦ A civilizational blueprint, cher.
 
----
-
 ## 🪞 Platform note, cher
 
 If you’re readin’ this through **shohei.kim**, cher, then yes — you’re lookin’ at a **GitHub Pages** version tied to my public repo. The source repo sits right here, cher:
 
 **[(GitHub Repository: ShoheiKIMURA389 / Definition)](https://github.com/ShoheiKIMURA389/Definition)**
-
----
 
 # ✧ Human Civilization Software Update 3.0 ✧
 
@@ -29,13 +25,9 @@ Whether this work comes out as an academic paper or a Kindle volume, cher, the a
 
 This page here’s my way of honorin’ that requirement, cher.
 
----
-
 ## 📎 Essential reference, cher
 
 **[Base of “Human Civilization Software Update 3.0”](https://github.com/ShoheiKIMURA389/Definition/wiki/Base-of-%E2%80%9CHuman-Civilization-Software-Update-3.0%E2%80%9D)**
-
----
 
 # 🕊️ Ethicalism (倫理主義), cher
 
@@ -54,8 +46,6 @@ It ain’t here to merely reform capitalism, cher. It’s here to absorb and sup
 > ♡ Not revenge.  
 > ♡ Ethical absorption, cher.
 
----
-
 # 📚✨ Publications and Forthcoming Work, cher
 
 ## Academic / Book (Format still open), cher
@@ -73,13 +63,9 @@ This framework’s meant to offer, cher:
 - a transparency-first global infrastructure  
 - a blueprint for reducin’ global structural risk  
 
----
-
 ## 🧠 Thought Formalization Procedure, cher
 
 I’m the one who set down **思想形式化手続き (Thought Formalization Procedure)**, cher — the first copyrighted way anybody’s ever tried to formalize thought itself. What that thing does, plain and simple, is lock in reproducibility, make it auditable, and keep the whole intellectual house transparent, ’cause that ain’t decorative trim no more, cher. Not in a world where AI’s sittin’ at the decision table. That’s load-bearin’ structure.
-
----
 
 ## 🕯️ Fiction, cher
 
@@ -90,8 +76,6 @@ As **木村杳白 (Yōhaku KIMURA)**, I write large-scale philosophical fiction 
 
 These works explore epistemology, ethics, and metaphysics in narrative form, cher.
 
----
-
 ## 📰 Essays, cher
 
 Selected writings include, cher:
@@ -100,16 +84,12 @@ Selected writings include, cher:
 - *[Post-Human Design Log](https://bitBuyer.dev/2025/07/24/post-human-design-log-me-chatgpt-and-the-blueprint-for-the-next-intelligence/)*  
 - *[How Facebook’s Algorithm Recognized Me as an OSS Developer](https://bitBuyer.dev/2025/05/18/how-facebooks-algorithm-responded-to-meta-verification-the-moment-it-recognized-me-as-an-open-source-developer/)*  
 
----
-
 # 🌙 Closing Statement, cher
 
 I ain’t claimin’ authority, influence, or special status, cher. What I’m tryin’ to do is contribute — careful, transparent, and with deep respect — to the institutional and ethical stability of our shared future. If Ethicalism can help shave even a little off global systemic risk, cher, then the work done served its purpose.
 
 With sincerity, cher,  
 **Shōhei KIMURA**
-
----
 
 # 💌 Postscript, cher
 
@@ -125,8 +105,6 @@ With affection, cher, I share the piece below, describin’ the quiet impetus be
 
 **[(Lo que no le conté a nadie… hasta hoy.)](https://bitBuyer.dev/2025/03/22/lo-que-no-le-conte-a-nadie-hasta-hoy/)**
 
----
-
 # 🧩 Reference Notes for “Human Civilization Software Update 3.0”, cher
 
 ## Conceptual scaffold note, cher
@@ -135,8 +113,6 @@ This section here serves as the conceptual scaffold, cher, for the forthcomin’
 
 That work presents Ethicalism as a civilizational operatin’ principle, cher — one that upgrades society through non-violent, institutional, and technological auto-updates, maximizes freedom, equality, autonomy, and transparency, makes monopoly and arbitrariness structurally impossible, and integrates the autonomous economic cycle of **bitBuyer 0.8.1.a** into the civilizational OS so capitalism can be terminally absorbed and surpassed as a post-capitalist paradigm.
 
----
-
 ## 🪶 Note on Definition 1, cher
 
 The **Thought Formalization Procedure** can’t be translated, cher. It’s a structural device that exists only in classical Japanese (**平安女性かな文体**). Any English renderin’ is necessarily a structural readin’, cher — not a translation.
@@ -144,8 +120,6 @@ The **Thought Formalization Procedure** can’t be translated, cher. It’s a st
 > ✦ Some things can be explained.  
 > ✦ Some things can only be structurally approached.  
 > ✦ This is one of them, cher.
-
----
 
 ## 𓃠 Final little porch-light note, cher
 
@@ -3405,13 +3379,9 @@ All Rights Reserved.
 > Serious legal notice, soft little paws, cher.  
 > Visibility ain’t permission. Cute ain’t public domain. 🐾
 
----
-
 ## 1. 🧷 COPYRIGHT OWNERSHIP
 
 This repository contains original works protected by copyright law. All rights, title, and interest in the contents of this repository are retained exclusively by the author. No open-source license applies unless expressly stated in a separate written instrument executed by the author. The absence of an open-source license is intentional and shall not be interpreted as an implied grant of rights.
-
----
 
 ## 2. 🖥️ RELATIONSHIP TO GITHUB TERMS OF SERVICE
 
@@ -3426,25 +3396,17 @@ These platform-level permissions:
 
 The technical availability of features such as "clone," "fork," "download," or "copy" is a function of platform design and does not constitute independent legal authorization from the copyright holder.
 
----
-
 ## 3. 🚫 NO OPEN-SOURCE LICENSE
 
 Unless explicitly and separately stated, this repository ain’t released under no open-source license, cher, and no permission’s granted for reproduction beyond statutory exceptions, redistribution, derivative works, commercial exploitation, translation or transformation, automated training, indexing, or embedding, nor any other use that’d require authorization under applicable copyright law, so any rights not expressly granted by statute or by written authorization from the author stay fully reserved.
-
----
 
 ## 4. ⚖️ STATUTORY LIMITATIONS AND EXCEPTIONS
 
 Nothing in this notice restricts uses that are mandatorily permitted under applicable law, including limited statutory exceptions such as private use where legally recognized. Users are solely responsible for determining whether their actions fall within such statutory limitations. Any use exceeding those statutory boundaries requires prior authorization from the author.
 
----
-
 ## 5. 👁️ PLATFORM ACCESSIBILITY
 
 Public accessibility on GitHub does not constitute dedication to the public domain. Visibility does not equal license. Technical possibility does not equal permission. Platform functionality does not equal contractual authorization from the author.
-
----
 
 ## 6. 🧠 PURPOSE AND CHARACTER OF THE WORK
 
@@ -3454,19 +3416,13 @@ They are not published as collaborative open-source software.
 They are not intended for unrestricted redistribution.  
 They are not offered under implied community licensing norms.
 
----
-
 ## 7. 💌 REQUESTS FOR AUTHORIZATION
 
 Requests for authorization must be directed to the author through appropriate direct communication channels. Silence, delay, or lack of response shall not be interpreted as consent.
 
----
-
 ## 8. 🪞 INTERPRETIVE STATEMENT
 
 This notice is provided for clarity regarding copyright status in the context of GitHub’s platform architecture. Nothing contained herein constitutes legal advice or a unilateral declaration of enforceability beyond what is provided by applicable law. All rights and remedies, if any, arise solely under applicable law and jurisdiction.
-
----
 
 > 𓃠 Tiny paws.  
 > 📚 Full rights reserved.  
