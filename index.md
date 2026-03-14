@@ -177,7 +177,7 @@ All Rights Reserved.
 
 ---
 
-0.2.【Picture-Book of Ethicalism; commonly called, Cat Patch】𓃠🐾  
+### 0.2.【Picture-Book of Ethicalism; commonly called, Cat Patch】𓃠🐾  
 Ⅰ．【Declaration of Thought】I do declare—this world cain’t be a truly good world while somebody is still livin’ scared. If only the strong folks get to smile, and the weak folks gotta keep on endure’n and hushin’, then it may look mighty grand from far away, cher, but it still ain’t a good world. Ethicalism is the idea of mendin’ the shape of the world so everybody can live together a long while, with less fear, and without layin’ too much hurt and hardship on just one poor soul. This ain’t only a wish that says, “Now y’all be kind.” No, cher. It is a way of fixin’ countries, towns, and rules so kindness don’t show up only once in a while, but keeps on lastin’ proper.
 
 Ⅱ．What Ethicalism cares for most ain’t “the strong must be the best.” What it cares for is this here: makin’ sure folks don’t break so easy. People ain’t born just to fight. They ain’t meant to live all trembly, neither. Eatin’, sleepin’, laughin’ with the ones you love, and feelin’ like tomorrow just might be all right—that’s what life stands on. So Ethicalism tries, one little piece at a time, to build good systems: systems that protect folks, systems that make lyin’ and foolin’ harder, systems that keep puffed-up people from pushin’ everybody else around too much. It don’t just hope good people happen to appear. It tries to make bad doin’ harder in the first place.
