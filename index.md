@@ -1,4 +1,4 @@
-# Welcome, cher
+# Welcome, cher 𓃠🐾
 
 Welcome, cher. This page here’s laid out plain, with transparency, cher, and with responsibility too; it’s the front porch—the public one—to my long-run research work and civilizational design, and if you need to reach me formal and proper about anything written here, legal or otherwise official, send an SMS to +81-70-3666-0022, cher, and we’ll keep it straight and documented.
 
