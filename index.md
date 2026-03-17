@@ -3420,7 +3420,7 @@ All Rights Reserved.
 木村杳白（木村翔平）  
 All Rights Reserved.
 
-𝕏：
+𝕏：https://x.com/yohakukmr/status/2033740129580552232  
 
 ---
 
