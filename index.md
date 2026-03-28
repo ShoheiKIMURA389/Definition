@@ -1846,6 +1846,7 @@ Facebook：https://www.facebook.com/61572398409812/posts/122178589844746613
 All Rights Reserved.
 
 𝕏：https://x.com/yohakukmr/status/1997146528893517892  
+Facebook：https://www.facebook.com/61572398409812/posts/122180956766746613
 
 ---
 
@@ -1873,6 +1874,7 @@ All Rights Reserved.
 All Rights Reserved.
 
 𝕏：https://x.com/yohakukmr/status/1997154055538593877  
+Facebook：https://www.facebook.com/61572398409812/posts/122180956790746613
 
 ---
 
@@ -1900,6 +1902,7 @@ All Rights Reserved.
 All Rights Reserved.
 
 𝕏：https://x.com/yohakukmr/status/1997154081857851678  
+Facebook：https://www.facebook.com/61572398409812/posts/122180956808746613
 
 ---
 
