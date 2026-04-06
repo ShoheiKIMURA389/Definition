@@ -1930,6 +1930,7 @@ Facebook：https://www.facebook.com/61572398409812/posts/122180956808746613
 All Rights Reserved.
 
 𝕏：https://x.com/yohakukmr/status/1997229572262445272  
+Facebook：https://www.facebook.com/61572398409812/posts/122181863978746613
 
 ---
 
@@ -1957,6 +1958,7 @@ All Rights Reserved.
 All Rights Reserved.
 
 𝕏：https://x.com/yohakukmr/status/1997229596711002278  
+Facebook：https://www.facebook.com/61572398409812/posts/122181863990746613
 
 ---
 
